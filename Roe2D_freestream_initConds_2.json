@@ -1,0 +1,1 @@
+{"simNumber": "2", "simtype": "freestream", "limtype": "superbee", "xBoundConds": "periodic", "yBoundConds": "outflow", "saveInterval": 100, "ax": 0, "bx": 5, "Nx": 100, "ay": 0, "by": 5, "Ny": 100, "maxdt": 5, "Nt": 100000, "ti": 0, "Cp": 1, "Cv": 0.718, "nGhost": 2, "Vinf": 50.0, "rhoinf": 2.586, "Pinf": 101000}
